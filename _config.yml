@@ -31,7 +31,7 @@ twitter_url: https://twitter.com/junkiejem
 
 # build settings
 markdown: kramdown
-remote_theme: andrewbanchich/forty-jekyll-theme
+theme: junkiejem.github.io
 
 sass:
   style: compressed
